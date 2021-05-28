@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461821542334",
+    "project_id": "androi-thithu",
+    "storage_bucket": "androi-thithu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461821542334:android:a10acf13567fe1e8e4c3ef",
+        "android_client_info": {
+          "package_name": "iuh.edu.thithu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461821542334-0hmlo5rom8ke66nv97chslpg45g7bdl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDx16ThCRahi6sqW6WpmVX0GTIabB9xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461821542334-0hmlo5rom8ke66nv97chslpg45g7bdl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
